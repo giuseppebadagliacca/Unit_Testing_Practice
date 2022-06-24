@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/roesnera/Unit_Testing_Practice#readme",
   "dependencies": {
-    "chai": "^4.3.0",
-    "mocha": "^8.2.1"
+    "chai": "^4.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
   }
 }
